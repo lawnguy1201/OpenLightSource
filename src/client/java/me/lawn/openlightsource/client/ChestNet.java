@@ -1,4 +1,4 @@
-package me.elvis.openlight.client;
+package me.lawn.openlightsource.client;
 
 import baritone.api.BaritoneAPI;
 import baritone.api.IBaritone;
@@ -7,7 +7,7 @@ import baritone.api.command.argument.IArgConsumer;
 import baritone.api.pathing.goals.Goal;
 import baritone.api.pathing.goals.GoalBlock;
 import baritone.api.pathing.goals.GoalXZ;
-import me.elvis.openlight.client.Discord.Bot.DiscordBot;
+import me.lawn.openlightsource.client.Discord.Bot.DiscordBot;
 import net.minecraft.block.*;
 
 import net.minecraft.block.entity.BlockEntity;

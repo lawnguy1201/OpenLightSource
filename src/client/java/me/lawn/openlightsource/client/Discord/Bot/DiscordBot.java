@@ -1,4 +1,4 @@
-package me.elvis.openlight.client.Discord.Bot;
+package me.lawn.openlightsource.client.Discord.Bot;
 
 import net.dv8tion.jda.api.AccountType;
 import net.dv8tion.jda.api.JDA;

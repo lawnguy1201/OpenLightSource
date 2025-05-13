@@ -1,4 +1,4 @@
-package me.elvis.openlight;
+package me.lawn.openlightsource;
 
 import baritone.api.BaritoneAPI;
 import baritone.api.pathing.goals.GoalXZ;
@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
-public class Openlight implements ModInitializer {
+public class OpenLightSource implements ModInitializer {
 
     public static final Logger LOGGER = LoggerFactory.getLogger("openlight");
 

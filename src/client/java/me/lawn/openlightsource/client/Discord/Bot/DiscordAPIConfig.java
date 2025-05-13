@@ -1,4 +1,4 @@
-package me.elvis.openlight.client.Discord.Bot;
+package me.lawn.openlightsource.client.Discord.Bot;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
