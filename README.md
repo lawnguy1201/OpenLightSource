@@ -14,7 +14,7 @@ The spawners delay indicates if a chest was opened or not, any delay greater tha
 
 with this data I was able to create an interactive graph that shows all spawners and locations and delays allowing me to sort for activated spawners Vs. non-activated spawners. 
 
-![Screenshot 2025-05-14 170509.png](../../Pictures/Screenshots/Screenshot%202025-05-14%20170509.png)
+![img_1.png](img_1.png)
 
 ### What We Did With This Info 
 We started using this info to look for activated spawners manually and found about a dub of loot. 
@@ -56,8 +56,8 @@ Future iterations will hopefully have:
 
 ### Graph of All Activated Spawners
 
-![Screenshot 2025-05-14 170544.png](../../Pictures/Screenshots/Screenshot%202025-05-14%20170544.png)
+![img_2.png](img_2.png)
 
 ### Graph of All 1.19+ Spawners 
 
-![Screenshot 2025-05-14 170629aaa.png](../../Pictures/Screenshots/Screenshot%202025-05-14%20170629aaa.png)
+![img_3.png](img_3.png)
